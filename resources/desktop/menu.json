@@ -6,6 +6,7 @@
     { "text": "Anchor Layout", "iconCls": "x-fa fa-table", "xtype": "anchor_layout","leaf": true },
     { "text": "Absolute Layout", "iconCls": "x-fa fa-table", "xtype": "absolute_layout","leaf": true },
     { "text": "Fit Layout", "iconCls": "x-fa fa-table", "xtype": "fit_layout","leaf": true },
-    { "text": "Center Layout", "iconCls": "x-fa fa-table", "xtype": "center_layout","leaf": true }
+    { "text": "Center Layout", "iconCls": "x-fa fa-table", "xtype": "center_layout","leaf": true },
+    { "text": "Accordion Layout", "iconCls": "x-fa fa-table", "xtype": "accordion_layout","leaf": true }
   ]
 }
